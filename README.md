@@ -1,2 +1,2 @@
 # shahid-shell-example-project
-It is for testing
+Simple scripts written by me in my current project
